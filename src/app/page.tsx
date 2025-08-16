@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import ContactForm from "../components/ContactForm";
 
@@ -205,7 +204,7 @@ export default function Home() {
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4">
-                  Cape Town's premier shopping and entertainment destination with stunning harbor views and attractions.
+                  Cape Town&apos;s premier shopping and entertainment destination with stunning harbor views and attractions.
                 </p>
                 <ul className="text-sm text-gray-500 space-y-1">
                   <li>• Shopping centers</li>
@@ -293,7 +292,7 @@ export default function Home() {
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4">
-                  World's best land-based whale watching destination. Southern Right whales visit from June to November.
+                  World&apos;s best land-based whale watching destination. Southern Right whales visit from June to November.
                 </p>
                 <ul className="text-sm text-gray-500 space-y-1">
                   <li>• Whale watching season</li>
@@ -315,7 +314,7 @@ export default function Home() {
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4">
-                  World-renowned botanical garden showcasing South Africa's diverse flora against Table Mountain's backdrop.
+                  World-renowned botanical garden showcasing South Africa&apos;s diverse flora against Table Mountain&apos;s backdrop.
                 </p>
                 <ul className="text-sm text-gray-500 space-y-1">
                   <li>• Indigenous plant gardens</li>
@@ -362,7 +361,7 @@ export default function Home() {
                   UNESCO World Heritage Site where Nelson Mandela was imprisoned. Symbol of triumph over adversity.
                 </p>
                 <ul className="text-sm text-gray-500 space-y-1">
-                  <li>• Mandela's prison cell</li>
+                  <li>• Mandela&apos;s prison cell</li>
                   <li>• Ex-prisoner guides</li>
                   <li>• Museum exhibitions</li>
                   <li>• Ferry boat tours</li>
@@ -508,7 +507,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h3 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What Our Guests Say</h3>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Real experiences from travelers who've explored Cape Town with us
+              Real experiences from travelers who&apos;ve explored Cape Town with us
             </p>
           </div>
           
@@ -534,7 +533,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-4">
-                "Excellent service from Cape Advanced Tours! Our airport transfer was punctual and comfortable. The driver was friendly and gave us great tips about Cape Town."
+                &ldquo;Excellent service from Cape Advanced Tours! Our airport transfer was punctual and comfortable. The driver was friendly and gave us great tips about Cape Town.&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">Sarah Johnson</p>
@@ -563,7 +562,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-4">
-                "Amazing Table Mountain tour! The guide was knowledgeable and the views were breathtaking. Cape Advanced Tours made our Cape Town experience unforgettable."
+                &ldquo;Amazing Table Mountain tour! The guide was knowledgeable and the views were breathtaking. Cape Advanced Tours made our Cape Town experience unforgettable.&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">Michael Chen</p>
@@ -592,7 +591,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-4">
-                "Perfect wine tour to Stellenbosch! Professional service, beautiful locations, and great wine. Highly recommend Cape Advanced Tours for anyone visiting Cape Town."
+                &ldquo;Perfect wine tour to Stellenbosch! Professional service, beautiful locations, and great wine. Highly recommend Cape Advanced Tours for anyone visiting Cape Town.&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">Emma Thompson</p>

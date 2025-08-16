@@ -115,7 +115,7 @@ Reply to: ${email}
           to: 'info@capeadvancedtours.com',
           subject: emailContent.subject,
           text: emailContent.body,
-          reply_to: email,
+          replyTo: email,
         });
         
         console.log(`✅ [${requestId}] Email sent successfully via Resend:`, emailResult);

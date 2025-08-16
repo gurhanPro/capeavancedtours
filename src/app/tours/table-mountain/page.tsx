@@ -225,7 +225,7 @@ export default function TableMountainTour() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Book Your Table Mountain Adventure</h2>
           <p className="text-xl mb-8">
-            Don't miss out on Cape Town's most iconic experience. Book your Table Mountain tour today!
+            Don&apos;t miss out on Cape Town&apos;s most iconic experience. Book your Table Mountain tour today!
           </p>
           
           <div className="grid md:grid-cols-3 gap-6 mb-8">

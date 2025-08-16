@@ -68,7 +68,7 @@ export default function WineRouteTour() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Stellenbosch</h3>
               <p className="text-gray-600 mb-4">
-                South Africa's wine capital with over 300 years of winemaking tradition. Home to prestigious estates and award-winning Cabernet Sauvignon.
+                South Africa&apos;s wine capital with over 300 years of winemaking tradition. Home to prestigious estates and award-winning Cabernet Sauvignon.
               </p>
               <ul className="text-left text-gray-600 space-y-2 text-sm">
                 <li>• Historic wine estates</li>
@@ -104,7 +104,7 @@ export default function WineRouteTour() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Paarl</h3>
               <p className="text-gray-600 mb-4">
-                Home to South Africa's largest wine cooperative and historic estates. Famous for innovative winemaking and stunning granite mountains.
+                Home to South Africa&apos;s largest wine cooperative and historic estates. Famous for innovative winemaking and stunning granite mountains.
               </p>
               <ul className="text-left text-gray-600 space-y-2 text-sm">
                 <li>• Historic wine cellars</li>
@@ -254,7 +254,7 @@ export default function WineRouteTour() {
             </div>
             
             <div className="bg-purple-50 rounded-xl p-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-6">Wine Types You'll Taste</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-6">Wine Types You&apos;ll Taste</h3>
               <div className="grid grid-cols-2 gap-4">
                 <div className="text-center">
                   <div className="bg-red-100 rounded-lg p-4 mb-2">
@@ -351,7 +351,7 @@ export default function WineRouteTour() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h3 className="text-2xl font-bold mb-4">Cape Advanced Tours</h3>
-            <p className="text-gray-400 mb-6">Your gateway to the Cape Winelands' finest experiences</p>
+            <p className="text-gray-400 mb-6">Your gateway to the Cape Winelands&apos; finest experiences</p>
             <div className="flex justify-center space-x-6">
               <a href="tel:0839546069" className="text-gray-400 hover:text-white">083 954 6069</a>
               <a href="mailto:info@capeadvancedtours.com" className="text-gray-400 hover:text-white">info@capeadvancedtours.com</a>

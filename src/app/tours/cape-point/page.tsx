@@ -3,8 +3,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Cape Point Tours | Cape of Good Hope | Penguin Tours | Cape Advanced Tours",
-  description: "Explore Cape Point and Cape of Good Hope with penguin colony visits. Full-day tours from Cape Town. Professional guides, scenic Chapman's Peak drive included.",
-  keywords: "Cape Point tours, Cape of Good Hope, penguin tours, Chapman's Peak, Boulders Beach penguins, Cape Point lighthouse, Cape Town day tours",
+  description: "Explore Cape Point and Cape of Good Hope with penguin colony visits. Full-day tours from Cape Town. Professional guides, scenic Chapman&apos;s Peak drive included.",
+  keywords: "Cape Point tours, Cape of Good Hope, penguin tours, Chapman&apos;s Peak, Boulders Beach penguins, Cape Point lighthouse, Cape Town day tours",
 };
 
 export default function CapePointTour() {
@@ -88,11 +88,11 @@ export default function CapePointTour() {
               <div className="space-y-4 mb-6">
                 <p className="text-gray-600">Complete Cape Peninsula experience including penguin colony visit.</p>
                 <ul className="text-gray-600 space-y-2">
-                  <li>✓ Chapman's Peak Drive</li>
+                  <li>✓ Chapman&apos;s Peak Drive</li>
                   <li>✓ Hout Bay seal island cruise</li>
                   <li>✓ Cape Point & lighthouse</li>
                   <li>✓ Boulders Beach penguins</li>
-                  <li>✓ Simon's Town naval base</li>
+                  <li>✓ Simon&apos;s Town naval base</li>
                   <li>✓ 8-9 hours duration</li>
                 </ul>
               </div>
@@ -154,7 +154,7 @@ export default function CapePointTour() {
                 </svg>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Penguin Colony</h3>
-              <p className="text-gray-600 text-sm">Visit the famous African penguin colony at Boulders Beach, Simon's Town</p>
+              <p className="text-gray-600 text-sm">Visit the famous African penguin colony at Boulders Beach, Simon&apos;s Town</p>
             </div>
             
             <div className="bg-white rounded-xl p-6 text-center shadow-lg">
@@ -163,8 +163,8 @@ export default function CapePointTour() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-1.447-.894L15 9m0 8V9m0 0V7m0 2L9 7" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Chapman's Peak</h3>
-              <p className="text-gray-600 text-sm">One of the world's most scenic coastal drives with breathtaking clifftop views</p>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Chapman&apos;s Peak</h3>
+              <p className="text-gray-600 text-sm">One of the world&apos;s most scenic coastal drives with breathtaking clifftop views</p>
             </div>
             
             <div className="bg-white rounded-xl p-6 text-center shadow-lg">
@@ -216,8 +216,8 @@ export default function CapePointTour() {
                   <div className="bg-blue-600 text-white rounded-lg px-3 py-2 font-bold">10:30 AM</div>
                 </div>
                 <div className="ml-6">
-                  <h3 className="font-bold text-gray-900 mb-2">Chapman's Peak Drive</h3>
-                  <p className="text-gray-600">Experience one of the world's most spectacular coastal drives</p>
+                  <h3 className="font-bold text-gray-900 mb-2">Chapman&apos;s Peak Drive</h3>
+                  <p className="text-gray-600">Experience one of the world&apos;s most spectacular coastal drives</p>
                 </div>
               </div>
               
@@ -307,7 +307,7 @@ export default function CapePointTour() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h3 className="text-2xl font-bold mb-4">Cape Advanced Tours</h3>
-            <p className="text-gray-400 mb-6">Your gateway to Cape Point's natural wonders</p>
+            <p className="text-gray-400 mb-6">Your gateway to Cape Point&apos;s natural wonders</p>
             <div className="flex justify-center space-x-6">
               <a href="tel:0839546069" className="text-gray-400 hover:text-white">083 954 6069</a>
               <a href="mailto:info@capeadvancedtours.com" className="text-gray-400 hover:text-white">info@capeadvancedtours.com</a>

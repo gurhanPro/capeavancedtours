@@ -35,7 +35,7 @@ export default function GardenRouteTour() {
               Garden Route Tours
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-              Journey along South Africa's most scenic coastal route. From ancient forests to pristine beaches, experience the Garden Route's natural wonders.
+              Journey along South Africa&apos;s most scenic coastal route. From ancient forests to pristine beaches, experience the Garden Route&apos;s natural wonders.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#book" className="bg-orange-500 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-orange-600 transition-colors">
@@ -63,7 +63,7 @@ export default function GardenRouteTour() {
             <div className="bg-gray-50 rounded-xl p-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">3-Day Garden Route</h3>
               <div className="space-y-4 mb-6">
-                <p className="text-gray-600">Perfect introduction to the Garden Route's highlights.</p>
+                <p className="text-gray-600">Perfect introduction to the Garden Route&apos;s highlights.</p>
                 <ul className="text-gray-600 space-y-2 text-sm">
                   <li>✓ Mossel Bay & George</li>
                   <li>✓ Knysna Heads & Lagoon</li>
@@ -134,7 +134,7 @@ export default function GardenRouteTour() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Garden Route Highlights</h2>
-            <p className="text-xl text-gray-600">Discover the natural wonders along South Africa's premier coastal route</p>
+            <p className="text-xl text-gray-600">Discover the natural wonders along South Africa&apos;s premier coastal route</p>
           </div>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -185,7 +185,7 @@ export default function GardenRouteTour() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What's Included</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What&apos;s Included</h2>
             <p className="text-xl text-gray-600">Everything you need for an unforgettable Garden Route experience</p>
           </div>
           
@@ -239,7 +239,7 @@ export default function GardenRouteTour() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Book Your Garden Route Adventure</h2>
           <p className="text-xl mb-8">
-            Experience South Africa's most scenic route with our expert guides and premium service.
+            Experience South Africa&apos;s most scenic route with our expert guides and premium service.
           </p>
           
           <div className="grid md:grid-cols-3 gap-6 mb-8">
@@ -276,7 +276,7 @@ export default function GardenRouteTour() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h3 className="text-2xl font-bold mb-4">Cape Advanced Tours</h3>
-            <p className="text-gray-400 mb-6">Your gateway to the Garden Route's natural wonders</p>
+            <p className="text-gray-400 mb-6">Your gateway to the Garden Route&apos;s natural wonders</p>
             <div className="flex justify-center space-x-6">
               <a href="tel:0839546069" className="text-gray-400 hover:text-white">083 954 6069</a>
               <a href="mailto:info@capeadvancedtours.com" className="text-gray-400 hover:text-white">info@capeadvancedtours.com</a>
