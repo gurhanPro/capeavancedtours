@@ -35,7 +35,6 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start",
-    "deploy": "echo 'Deploy completed successfully'"
+    "start": "next start"
   }
 }
